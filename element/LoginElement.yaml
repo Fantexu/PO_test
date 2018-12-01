@@ -1,0 +1,4 @@
+'username_input': (By.ID, 'username')
+'pwd_input': (By.ID, 'password')
+'code_input': (By.ID, 'verify_code')
+'login_button': (By.XPATH, '//a[@name="sbtbutton"]')
